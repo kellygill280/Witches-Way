@@ -140,3 +140,8 @@ div h2{ background-color: #E3E3E3;
         text-align: center;
         margin-top: 50px;
 }
+
+#wrapper{
+  width:960px;
+  margin:0 auto;
+}
