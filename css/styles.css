@@ -121,7 +121,7 @@ input[type=submit]:hover {
   padding: 30px;
 }
 
-/* Clearfix (clear floats) */
+
 .row::after {
   content: "";
   clear: both;
