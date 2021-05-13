@@ -20,7 +20,7 @@ body{ background-color: #9E788F;}
 
 
 
-.accordion {
+.accordion1 {
     background-color: #525b48;
     color:#E3E3E3;
     cursor: pointer;
@@ -34,7 +34,7 @@ body{ background-color: #9E788F;}
     transition: 0.4s;
   }
   
-  .active, .accordion:hover {
+   .accordion1:hover {
     background-color: #ccc; 
   }
   
@@ -126,4 +126,17 @@ input[type=submit]:hover {
   content: "";
   clear: both;
   display: table;
+}
+
+img {
+  width: 500px;
+height: 700px;
+object-fit: contain;
+margin: 50px;
+padding-top: 25px;
+}
+
+div h2{ background-color: #E3E3E3;
+        text-align: center;
+        margin-top: 50px;
 }
